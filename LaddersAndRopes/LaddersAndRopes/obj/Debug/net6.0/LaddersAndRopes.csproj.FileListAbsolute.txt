@@ -1,0 +1,15 @@
+C:\Users\win10\Desktop\mandelProject\LaddersAndRopes\LaddersAndRopes\bin\Debug\net6.0\LaddersAndRopes.exe
+C:\Users\win10\Desktop\mandelProject\LaddersAndRopes\LaddersAndRopes\bin\Debug\net6.0\LaddersAndRopes.deps.json
+C:\Users\win10\Desktop\mandelProject\LaddersAndRopes\LaddersAndRopes\bin\Debug\net6.0\LaddersAndRopes.runtimeconfig.json
+C:\Users\win10\Desktop\mandelProject\LaddersAndRopes\LaddersAndRopes\bin\Debug\net6.0\LaddersAndRopes.dll
+C:\Users\win10\Desktop\mandelProject\LaddersAndRopes\LaddersAndRopes\bin\Debug\net6.0\ref\LaddersAndRopes.dll
+C:\Users\win10\Desktop\mandelProject\LaddersAndRopes\LaddersAndRopes\bin\Debug\net6.0\LaddersAndRopes.pdb
+C:\Users\win10\Desktop\mandelProject\LaddersAndRopes\LaddersAndRopes\obj\Debug\net6.0\LaddersAndRopes.csproj.AssemblyReference.cache
+C:\Users\win10\Desktop\mandelProject\LaddersAndRopes\LaddersAndRopes\obj\Debug\net6.0\LaddersAndRopes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\win10\Desktop\mandelProject\LaddersAndRopes\LaddersAndRopes\obj\Debug\net6.0\LaddersAndRopes.AssemblyInfoInputs.cache
+C:\Users\win10\Desktop\mandelProject\LaddersAndRopes\LaddersAndRopes\obj\Debug\net6.0\LaddersAndRopes.AssemblyInfo.cs
+C:\Users\win10\Desktop\mandelProject\LaddersAndRopes\LaddersAndRopes\obj\Debug\net6.0\LaddersAndRopes.csproj.CoreCompileInputs.cache
+C:\Users\win10\Desktop\mandelProject\LaddersAndRopes\LaddersAndRopes\obj\Debug\net6.0\LaddersAndRopes.dll
+C:\Users\win10\Desktop\mandelProject\LaddersAndRopes\LaddersAndRopes\obj\Debug\net6.0\ref\LaddersAndRopes.dll
+C:\Users\win10\Desktop\mandelProject\LaddersAndRopes\LaddersAndRopes\obj\Debug\net6.0\LaddersAndRopes.pdb
+C:\Users\win10\Desktop\mandelProject\LaddersAndRopes\LaddersAndRopes\obj\Debug\net6.0\LaddersAndRopes.genruntimeconfig.cache

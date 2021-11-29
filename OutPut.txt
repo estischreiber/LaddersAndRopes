@@ -1,0 +1,111 @@
+
+--ladders--
+21 => 71
+64 => 81
+44 => 79
+43 => 87
+5 => 26
+53 => 89
+8 => 57
+82 => 91
+73 => 86
+
+--snakes--
+23 => 17
+63 => 54
+49 => 34
+
+--golden tiles--
+76
+94
+
+--Simulation Started--
+
+--round 1 --
+a rolled 6
+a is on 6
+s rolled 12
+s is on 12
+
+--round 2 --
+a rolled 4
+a is on 10
+s rolled 4
+s is on 16
+
+--round 3 --
+a rolled 4
+a is on 14
+s rolled 4
+s is on 20
+
+--round 4 --
+a rolled 8
+a is on 22
+s rolled 10
+s is on 30
+
+--round 5 --
+a rolled 8
+a is on 30
+s rolled 6
+s is on 36
+
+--round 6 --
+a rolled 6
+a is on 36
+s rolled 4
+s is on 40
+
+--round 7 --
+a rolled 10
+a is on 46
+s rolled 10
+s is on 50
+
+--round 8 --
+a rolled 4
+a is on 50
+s rolled 7
+s is on 57
+
+--round 9 --
+a rolled 7
+a is on 57
+s rolled 6
+s has landed on a snake
+s is on 54
+
+--round 10 --
+a rolled 10
+a is on 67
+s rolled 8
+s is on 62
+
+--round 11 --
+a rolled 7
+a is on 74
+s rolled 7
+s is on 69
+
+--round 12 --
+a rolled 5
+a is on 79
+s rolled 9
+s is on 78
+
+--round 13 --
+a rolled 7
+a is on 86
+s rolled 3
+s is on 81
+
+--round 14 --
+a rolled 7
+a is on 93
+s rolled 10
+s is on 91
+
+--round 15 --
+a rolled 10
+a has won!!!
